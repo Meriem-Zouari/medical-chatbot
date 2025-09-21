@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/merieme/miniconda3/envs/tf/bin/python",
+  "python.terminal.activateEnvironment": true
+}
